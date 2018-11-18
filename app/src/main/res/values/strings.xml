@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FindMyCar</string>
+    <string name="title_activity_maps">Car\'s Location</string>
+    <string name="title_activity_compass">Locating Your Car</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="isTracking">IsTracking</string>
+    <string name="infoHTML"><![CDATA[<p class="p1" style="text-align: center;"><strong><span class="s1">How to use the app:</span></strong></p>
+<p class="p1" style="text-align: center;"><span class="s1">Stand at location of your car and press <span style="text-decoration: underline;">SAVE CAR LOCATION</span> button.</span></p>
+<p class="p1" style="text-align: center;"><span class="s1">The coordinates of you car will be saved. </span></p>
+<p class="p1" style="text-align: center;"><span class="s1">Then the app will automatically redirect to the compass.</span></p>
+<p class="p1" style="text-align: center;"><span class="s1">You can close the app and open it again when you would like to use it to locate you car.</span></p>
+<p class="p1" style="text-align: center;"><span class="s1">Location coordinates will be saved until the navigation is canceled at the compass screen.</span></p>]]></string>
+
+    <string name="popUplocation">Location Services Required</string>
+    <string name="popUpEnable">Enable Locations to use this app.</string>
+    <string name="popUpSettings">Open Settings</string>
+
+    <string name="compassTitle">Close Navigation?</string>
+    <string name="compassMessage">Would you stop location Tracking?</string>
+    <string name="compassOK">Yes</string>
+    <string name="compassCancel">Cancel</string>
+
+    <string name="foundCar">"It looks like your car is here."</string>
+    <string name="rotation">rotation</string>
+    <string name="meters"> meters</string>
+
+
+</resources>
